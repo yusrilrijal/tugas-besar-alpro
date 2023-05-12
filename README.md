@@ -6,7 +6,7 @@
 
 My Awesome Project is a web application that helps users manage their daily tasks and schedule.
 
-## [Tautan Ke Halaman Web] (https://www.example.com/)
+## [Tautan Ke Halaman Web](https://www.example.com/)
 
 
 - User authentication and registration
