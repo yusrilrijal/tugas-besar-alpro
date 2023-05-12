@@ -6,7 +6,8 @@
 
 My Awesome Project is a web application that helps users manage their daily tasks and schedule.
 
-## Features (https://brutalgamer.com/2014/05/12/adventure-time-secret-of-the-nameless-kingdom-on-the-way-this-autumn/)
+## [Tautan Ke Halaman Web](https://www.example.com/)
+
 
 - User authentication and registration
 - Task management and scheduling
