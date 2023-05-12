@@ -6,27 +6,27 @@
 
 My Awesome Project is a web application that helps users manage their daily tasks and schedule.
 
-## Features
+## Features (https://brutalgamer.com/2014/05/12/adventure-time-secret-of-the-nameless-kingdom-on-the-way-this-autumn/)
 
 - User authentication and registration
 - Task management and scheduling
 - User dashboard with task summary and calendar view
 - Responsive design for mobile and desktop
 
-## Installation
+## Installation (https://brutalgamer.com/2014/05/12/adventure-time-secret-of-the-nameless-kingdom-on-the-way-this-autumn/)
 
 1. Clone this repository: `git clone https://github.com/username/my-awesome-project.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## Contributing
+## Contributing (https://brutalgamer.com/2014/05/12/adventure-time-secret-of-the-nameless-kingdom-on-the-way-this-autumn/)
 
 We welcome contributions from everyone. Before submitting a pull request, please review our [contributing guidelines](CONTRIBUTING.md).
 
-## Code of Conduct
+## Code of Conduct (https://brutalgamer.com/2014/05/12/adventure-time-secret-of-the-nameless-kingdom-on-the-way-this-autumn/)
 
 Please review our [code of conduct](CODE_OF_CONDUCT.md) before contributing to this project.
 
-## License
+## License (https://brutalgamer.com/2014/05/12/adventure-time-secret-of-the-nameless-kingdom-on-the-way-this-autumn/)
 
 This project is licensed under the [MIT License](LICENSE).
